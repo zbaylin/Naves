@@ -7,3 +7,4 @@ def load():
   config.theme = rawConfig["theme"]
   config.width = rawConfig["width"]
   config.height = rawConfig["height"]
+  config.providers = rawConfig["providers"]

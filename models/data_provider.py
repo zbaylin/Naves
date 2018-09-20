@@ -1,7 +1,7 @@
 class DataProvider():
-  def __init__(self, name):
-    self.name = name
+  def __init__(self):
+    self.name = ""
     self.results = []
 
-  def run(self):
+  def run(self, term):
     raise NotImplementedError
