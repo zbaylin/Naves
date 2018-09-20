@@ -1,0 +1,17 @@
+QWidget:window {
+	background-color: #282a2e;
+}
+
+* {
+  color: #e0e0e0;
+  background-color: #282a2e;
+  border-style: solid;
+  border-width: 0;
+}
+
+QLineEdit {
+  color: #e0e0e0;
+  border-style: solid;
+  border-bottom-color: #2196F3;
+  border-bottom-width: .1em 
+}
